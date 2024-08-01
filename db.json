@@ -1,0 +1,155 @@
+{
+  "clubs": [
+    {
+      "id": 1,
+      "pictures": [
+        "img1",
+        "img2"
+      ],
+      "facilities": {
+        "tennis": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "padel": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "pingpong": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "fronton": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "squash": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        }
+      },
+      "name": "camp",
+      "city": "madrid",
+      "town": "mejorada del campo",
+      "address": "calle lima 28",
+      "zipCode": 28810,
+      "services": [
+        "wifi",
+        "restaurant",
+        "parking"
+      ],
+      "contact": {
+        "web": "",
+        "email": "kfnelkjf@gmail.com",
+        "phone": "+34652652845"
+      }
+    },
+    {
+      "pictures": [
+        "img1",
+        "img2"
+      ],
+      "facilities": {
+        "tennis": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "padel": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "pingpong": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "fronton": {
+          "indoor": 1,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        },
+        "squash": {
+          "indoor": 5,
+          "outdoor": 1,
+          "ac": true,
+          "price": 5
+        }
+      },
+      "name": "Marta",
+      "city": "madrid",
+      "town": "mejorada del campo",
+      "address": "calle iglesia 5",
+      "zipCode": 28810,
+      "services": [
+        "wifi",
+        "restaurant",
+        "parking",
+        "lookerRoom"
+      ],
+      "contact": {
+        "web": "",
+        "email": "kfnelkjf@gmail.com",
+        "phone": "+34652652845"
+      },
+      "id": 2
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "user": "catalina",
+      "clubId": 1,
+      "comment": "jdbvkdsjbkj",
+      "rating": 5,
+      "date": "1995-12-17T03:24:00"
+    },
+    {
+      "user": "alex",
+      "clubId": 1,
+      "comment": "holiii",
+      "rating": 5,
+      "date": "1995-12-17T03:24:00",
+      "id": 2
+    },
+    {
+      "user": "robert",
+      "clubId": 1,
+      "comment": "tengo sueño",
+      "rating": 5,
+      "date": "1995-12-17T03:24:00",
+      "id": 3
+    },
+    {
+      "user": "marta",
+      "clubId": 2,
+      "comment": "guchifuchi",
+      "rating": 5,
+      "date": "1995-12-17T03:24:00",
+      "id": 4
+    },
+    {
+      "user": "german",
+      "clubId": 2,
+      "comment": "pantera rosa",
+      "rating": 5,
+      "date": "1995-12-17T03:24:00",
+      "id": 5
+    }
+  ]
+}
